@@ -13,16 +13,16 @@
 		video{max-width:90%;height:auto}
 		sup{vertical-align:top}
 		sub{vertical-align:bottom}
-		article{margin-top:5px;margin-bottom:5px;padding:5px 5px 25px 5px;border-bottom:5px solid #ffffff}
-		article p{font-size:14px;direction:rtl;font-family:droid_arabic_naskh_regular}
+		article{margin-top:2px;margin-bottom:2px;padding:2px 2px 13px 2px;border-bottom:2px solid #ffffff}
+		article p{font-size:10px;direction:rtl;font-family:droid_arabic_naskh_regular}
 		article p a{color:#00f;text-decoration:underline}
 		article p a:hover{color:red;text-decoration:none}
 		article .question{color:red}
 		.border{padding:1px;background-color:#fff}
-		.example-box hh444{display:block;margin-right:10px;margin-bottom:5px;color:#000fff;text-align:right;direction:rtl;font-size:17px;font-family:droid_arabic_naskh_regular}
+		.example-box h4{display:block;margin-right:5px;margin-bottom:2px;color:#000fff;text-align:right;direction:rtl;font-size:10px;font-family:droid_arabic_naskh_regular}
 		.example-box code{background-color:#a9e2f3}
-		article hh33{direction:rtl;font-weight:700;font-size:16px;margin:10px 0;font-family:droid_arabic_naskh_regular}
-		article h2{display:block;text-align:right;margin:20px 0;font-size:18px;direction:rtl;font-family:droid_arabic_naskh_regular}
+		article h3{direction:rtl;font-weight:700;font-size:12px;margin:5px 0;font-family:droid_arabic_naskh_regular}
+		article h2{display:block;text-align:right;margin:10px 0;font-size:13px;direction:rtl;font-family:droid_arabic_naskh_regular}
 		article h2 .code{font-size:inherit;font-weight:700}
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
 		article .code-box div{display:block;text-align:left;color:#000;direction:ltr;background-color:#fff;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
@@ -74,12 +74,12 @@
 		.note-title{color:red;margin-top:5px;font-size:17px;display:block;text-align:right;font-family:droid_arabic_naskh_regular}
 		.note-box{width:100%;border:1px solid #d4d4d4;background-color:#ffffff;border-radius:6px;margin-bottom:20px;padding:2px 17px;direction:rtl;font-size:14px;font-family:droid_arabic_naskh_regular;line-height:32px}
 		.note-box ol,.note-box ul{margin-top:-10px;margin-bottom:10px}
-		.shor111tcuts-title{display:block;text-align:right;font-weight:700;margin-bottom:20px;font-size:1.2em}
+		.shortcuts-title{display:block;text-align:right;font-weight:700;margin-bottom:20px;font-size:1.2em}
 		#shortcuts{padding:10px 15px;margin:10px auto}
-		#shor111tcuts ul{list-style-position:inside;list-style-type:none;padding:10px 15px;border-radius:5px;background-color:#e4e4e4;direction:rtl;font-size:15px;font-family:droid_arabic_naskh_regular;border:1px dashed #bbb}
-		#shortc111uts ul li{border-radius:5px;color:#111;padding:3px;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
-		#shor111tcuts ul li:hover{background:#d4d4d4;cursor:pointer;padding-right:7px}
-		#shortc111uts ul li b{color:red;padding-left:7px;font-size:16px}
+		#shortcuts ul{list-style-position:inside;list-style-type:none;padding:10px 15px;border-radius:5px;background-color:#e4e4e4;direction:rtl;font-size:15px;font-family:droid_arabic_naskh_regular;border:1px dashed #bbb}
+		#shortcuts ul li{border-radius:5px;color:#111;padding:3px;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
+		#shortcuts ul li:hover{background:#d4d4d4;cursor:pointer;padding-right:7px}
+		#shortcuts ul li b{color:red;padding-left:7px;font-size:16px}
 		.right{text-align:right}
 		.left{text-align:left}
 		.center{text-align:center}

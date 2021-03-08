@@ -13,16 +13,16 @@
 		video{max-width:90%;height:auto}
 		sup{vertical-align:top}
 		sub{vertical-align:bottom}
-		article{margin-top:2px;margin-bottom:2px;padding:2px 2px 13px 2px;border-bottom:2px solid #ffffff}
-		article p{font-size:10px;direction:rtl;font-family:droid_arabic_naskh_regular}
-		article p a{color:#00f;text-decoration:underline}
+		ar111ticle{margin-top:2px;margin-bottom:2px;padding:2px 2px 13px 2px;border-bottom:2px solid #ffffff}
+		art1111icle p{font-size:10px;direction:rtl;font-family:droid_arabic_naskh_regular}
+		ar111ticle p a{color:#00f;text-decoration:underline}
 		article p a:hover{color:red;text-decoration:none}
 		article .question{color:red}
 		.border{padding:1px;background-color:#fff}
 		.example-box h4{display:block;margin-right:5px;margin-bottom:2px;color:#000fff;text-align:right;direction:rtl;font-size:10px;font-family:droid_arabic_naskh_regular}
 		.example-box code{background-color:#a9e2f3}
-		article h3{direction:rtl;font-weight:700;font-size:12px;margin:5px 0;font-family:droid_arabic_naskh_regular}
-		article h2{display:block;text-align:right;margin:10px 0;font-size:13px;direction:rtl;font-family:droid_arabic_naskh_regular}
+		arti111cle h3{direction:rtl;font-weight:700;font-size:12px;margin:5px 0;font-family:droid_arabic_naskh_regular}
+		arti111cle h2{display:block;text-align:right;margin:10px 0;font-size:13px;direction:rtl;font-family:droid_arabic_naskh_regular}
 		article h2 .code{font-size:inherit;font-weight:700}
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
 		article .code-box div{display:block;text-align:left;color:#000;direction:ltr;background-color:#fff;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}

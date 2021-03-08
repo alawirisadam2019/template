@@ -8,14 +8,14 @@
 		article p a:hover{color:red;text-decoration:none}
 		table a{text-decoration:underline;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
 		table a:hover{text-decoration:none;color:red}
-		article p,article td{margin:10px 0;vertical-align:middle;line-height:30px}
+		article p,article td{margin:5px 0;vertical-align:middle;line-height:30px}
 		article img{color:red;max-width:100%;height:auto}
 		video{max-width:90%;height:auto}
 		sup{vertical-align:top}
 		sub{vertical-align:bottom}
 		ar111ticle{margin-top:2px;margin-bottom:2px;padding:2px 2px 13px 2px;border-bottom:2px solid #ffffff}
 		art1111icle p{font-size:10px;direction:rtl;font-family:droid_arabic_naskh_regular}
-		ar111ticle p a{color:#00f;text-decoration:underline}
+		article p a{color:#00f;text-decoration:underline}
 		article p a:hover{color:red;text-decoration:none}
 		article .question{color:red}
 		.border{padding:1px;background-color:#fff}
@@ -26,7 +26,7 @@
 		article h2 .code{font-size:inherit;font-weight:700}
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
 		article .code-box div{display:block;text-align:left;color:#000;direction:ltr;background-color:#fff;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
-		.example-box{display:block;border:1px solid #ffffff;background-color:#ffffff;margin-top:5px;margin-bottom:5px;border-radius:5px;padding-top:5px;padding-bottom:5px;padding-left:6px;padding-right:5px;max-width:900px}
+		.example-box{display:block;border:1px solid #ffffff;background-color:#5858FA;margin-top:2px;margin-bottom:2px;border-radius:2px;padding-top:2px;padding-bottom:2px;padding-left:3px;padding-right:2px;max-width:900px}
 		.example-box .code-box{display:block;direction:ltr;color:#000;text-align:left;background-color:#fff;border:1px solid #bbb;font-size:12px;font-family:monospace,Consolas;line-height:18px;padding:10px;border-radius:5px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.code-box ol{list-style-type:decimal-leading-zero;list-style-position:inside;direction:ltr}
 		.code-box ol li{direction:ltr;font-weight:700}
@@ -62,9 +62,9 @@
 		.gray{color:gray}
 		.comment{color:gray}
 		table.horizontal-scroller{overflow-x:scroll}
-		table.list{direction:rtl;text-align:right;border-collapse:collapse;margin-top:10px;margin-bottom:20px;box-shadow:2px 4px 3px #777}
-		table.list td{font-size:14px;padding:10px 10px;padding-bottom:20px;border:1px solid #fe2ec8;vertical-align:middle;direction:rtl;line-height:2em}
-		table.list th{border:1px solid #fe2ec8;padding:10px;color:red;background-color:#ffffff;text-align:center;direction:rtl;font-weight:400}
+		table.list{direction:rtl;text-align:right;border-collapse:collapse;margin-top:5px;margin-bottom:10px;box-shadow:2px 4px 3px #777}
+		table.list td{font-size:14px;padding:5px 10px;padding-bottom:10px;border:1px solid #fe2ec8;vertical-align:middle;direction:rtl;line-height:2em}
+		table.list th{border:1px solid #fe2ec8;padding:5px;color:red;background-color:#ffffff;text-align:center;direction:rtl;font-weight:400}
 		table.list tr:nth-child(odd){background-color:#5858FA}
 		table.list tr:nth-child(even){background-color:#5858FA}
 		table.list .code{background-color:transparent}
@@ -72,8 +72,8 @@
 		table.list .code-title{display:block;padding:6px;border-radius:2px;direction:ltr;text-align:left;font-weight:700;font-size:16px;margin-bottom:10px;font-family:Helvetica,Arial,Sans-Serif}
 		.note{color:red;font-weight:700}
 		.note-title{color:red;margin-top:5px;font-size:17px;display:block;text-align:right;font-family:droid_arabic_naskh_regular}
-		.note-box{width:100%;border:1px solid #d4d4d4;background-color:#ffffff;border-radius:6px;margin-bottom:20px;padding:2px 17px;direction:rtl;font-size:14px;font-family:droid_arabic_naskh_regular;line-height:32px}
-		.note-box ol,.note-box ul{margin-top:-10px;margin-bottom:10px}
+		.note-box{width:100%;border:1px solid #d4d4d4;background-color:#5858FA;border-radius:6px;margin-bottom:20px;padding:2px 17px;direction:rtl;font-size:14px;font-family:droid_arabic_naskh_regular;line-height:32px}
+		.note-box ol,.note-box ul{margin-top:-5px;margin-bottom:5px}
 		.shortcuts-title{display:block;text-align:right;font-weight:700;margin-bottom:20px;font-size:1.2em}
 		#short222cuts{padding:10px 15px;margin:10px auto}
 		#shortc222uts ul{list-style-position:inside;list-style-type:none;padding:10px 15px;border-radius:5px;background-color:#e4e4e4;direction:rtl;font-size:15px;font-family:droid_arabic_naskh_regular;border:1px dashed #bbb}
@@ -162,10 +162,10 @@
 		article p span.enlighterEnlighterJS{background:#ced8f6!important;border:none!important}
 		.responsive-table{overflow-x:auto;border:1px solid #bbb!important;border-radius:5px}
 		.responsive-table table{border-collapse:collapse;border-spacing:0;width:100%}
-		.responsive-table table th{background-color:#fff}
+		.responsive-table table th{background-color:#5858FA}
 		.responsive-table table td,.responsive-table table th{padding:4px;border:1px solid #bbb}
-		.responsive-table table tr:nth-child(even){background-color:#fff}
-		.responsive-table table tr:nth-child(odd){background-color:#ffffff}
+		.responsive-table table tr:nth-child(even){background-color:#5858FA}
+		.responsive-table table tr:nth-child(odd){background-color:#5858FA}
 
 
 	

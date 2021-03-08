@@ -26,7 +26,7 @@
 		article h2 .code{font-size:inherit;font-weight:700}
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
 		article .code-box div{display:block;text-align:left;color:#000;direction:ltr;background-color:#fff;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
-		.example-box{display:block;border:1px solid #ffffff;background-color:#ffffff;margin-top:5px;margin-bottom:20px;border-radius:5px;padding-top:15px;padding-bottom:20px;padding-left:6px;padding-right:6px;max-width:900px}
+		.example-box{display:block;border:1px solid #ffffff;background-color:#ffffff;margin-top:5px;margin-bottom:5px;border-radius:5px;padding-top:5px;padding-bottom:5px;padding-left:6px;padding-right:5px;max-width:900px}
 		.example-box .code-box{display:block;direction:ltr;color:#000;text-align:left;background-color:#fff;border:1px solid #bbb;font-size:12px;font-family:monospace,Consolas;line-height:18px;padding:10px;border-radius:5px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.code-box ol{list-style-type:decimal-leading-zero;list-style-position:inside;direction:ltr}
 		.code-box ol li{direction:ltr;font-weight:700}
@@ -47,7 +47,7 @@
 		.explain .word{padding-top:3px}
 		article a img{cursor:zoom-in}
 		ol.arabic{direction:rtl;list-style:arabic-indic;list-style-position:inside;color:red;font-family:droid_arabic_naskh_regular}
-		ol ol,ol ul,ul ol,ul ul{padding-right:20px}
+		ol ol,ol ul,ul ol,ul ul{padding-right:10px}
 		ol li p,ul li p{display:inline;color:#000;font-weight:400;vertical-align:middle;font-family:droid_arabic_naskh_regular}
 		ol li .question,ul li .question{color:#008;font-weight:400;font-family:droid_arabic_naskh_regular}
 		.white{color:#fff}
@@ -105,9 +105,9 @@
 		.white-bg{background-color:#fff}
 		.btn{cursor:pointer;display:inline-block;font-size:16px;font-weight:700;padding:0 10px;background:#333;color:#fff;border-radius:5px;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
 		.btn:hover{background:#000}
-		a.open-page{cursor:pointer;display:inline-block;padding:5px 10px;backgr222ound:#333;co222lor:#fff;border-radius:5px;text-decoration:none;margin:1px 0}
+		a.open-page{cursor:pointer;display:inline-block;padding:5px 10px;background:#333;color:#fff;border-radius:5px;text-decoration:none;margin:1px 0}
 		.open-page img{vertical-align:middle}
-		a.open-page:hover{color:red;background:#000}
+		a.open-page:hover{color:#fff;background:#000}
 		table a.open-page{padding:2px 8px;font-size:13px;margin-top:8px}
 		.point{color:red;font-weight:700;padding-left:10px}
 		kbd{display:inline-block;margin:0 .1em;padding:.1em .6em;font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,sans-serif;font-size:11px;line-height:1.4;color:#242729;text-shadow:0 1px 0 #fff;background-color:#e1e3e5;border:1px solid #adb3b9;border-radius:3px;box-shadow:0 1px 0 rgba(12,13,14,.2),0 0 0 2px #fff inset;white-space:nowrap}

@@ -98,7 +98,7 @@
 		.rtl{direction:rtl}
 		.ltr{direction:ltr}
 		.block{display:block;margin-bottom:15px;text-align:left}
-		.yellow-bg{background-color:#ff0}
+		.yellow-bg{background-color:#AEB404}
 		.gray-bg{background-color:#ddd}
 		.blue-bg{background-color:#a9e2f3}
 		.green-bg{background-color:#9ff781}
@@ -155,7 +155,7 @@
 		h2 .EnlighterJS span{font-size:17px!important}
 		.code-title .EnlighterJS span,.code-title .enlighterEnlighterJS span{font-weight:700!important;font-size:16px!important;font-family:Helvetica,Arial,Sans-Serif!important}
 		.EnlighterJS span{font-weight:700!important}
-		ol.EnlighterJS,ul.EnlighterJS{width:auto!important;overflow-x:auto!important;word-wrap:normal!important;direction:ltr!important;background-color:#fff!important}
+		ol.EnlighterJS,ul.EnlighterJS{width:auto!important;overflow-x:auto!important;word-wrap:normal!important;direction:ltr!important;background-color:#AEB404!important}
 		ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#AEB404!important}
 		#shortc2222uts span.enlighterEnlighterJS{background:#ced8f6!important}
 		#shortcu22ts span.EnlighterJS{border:none!important}

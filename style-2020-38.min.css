@@ -27,7 +27,7 @@
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
 		article .code-box div{display:block;text-align:left;color:#000;direction:ltr;background-color:#fff;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.example-box{display:block;border:1px solid #ffffff;background-color:#5858FA;margin-top:2px;margin-bottom:2px;border-radius:2px;padding-top:2px;padding-bottom:2px;padding-left:3px;padding-right:2px;max-width:900px}
-		.example-box .code-box{display:block;direction:ltr;color:#000;text-align:left;background-color:#fff;border:1px solid #bbb;font-size:12px;font-family:monospace,Consolas;line-height:18px;padding:10px;border-radius:5px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
+		.example-box .code-box{display:block;direction:ltr;color:#fff;text-align:left;background-color:#000;border:1px solid #bbb;font-size:12px;font-family:monospace,Consolas;line-height:18px;padding:10px;border-radius:5px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.code-box ol{list-style-type:decimal-leading-zero;list-style-position:inside;direction:ltr}
 		.code-box ol li{direction:ltr;font-weight:700}
 		.code-box ol li .gray{font-weight:400}
@@ -47,7 +47,7 @@
 		.explain .word{padding-top:3px}
 		article a img{cursor:zoom-in}
 		ol.arabic{direction:rtl;list-style:arabic-indic;list-style-position:inside;color:red;font-family:droid_arabic_naskh_regular}
-		ol ol,ol ul,ul ol,ul ul{padding-right:10px}
+		ol ol,ol ul,ul ol,ul ul{padding-right:5px}
 		ol li p,ul li p{display:inline;color:#000;font-weight:400;vertical-align:middle;font-family:droid_arabic_naskh_regular}
 		ol li .question,ul li .question{color:#008;font-weight:400;font-family:droid_arabic_naskh_regular}
 		.white{color:#fff}
@@ -157,7 +157,7 @@
 		.EnlighterJS span{font-weight:700!important}
 		ol.EnlighterJS,ul.EnlighterJS{width:auto!important;overflow-x:auto!important;word-wrap:normal!important;direction:ltr!important;background-color:#fff!important}
 		ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#fff!important}
-		#shortc222uts span.enlighterEnlighterJS{background:#ced8f6!important}
+		#shortc2222uts span.enlighterEnlighterJS{background:#ced8f6!important}
 		#shortcu22ts span.EnlighterJS{border:none!important}
 		article p span.enlighterEnlighterJS{background:#ced8f6!important;border:none!important}
 		.responsive-table{overflow-x:auto;border:1px solid #bbb!important;border-radius:5px}

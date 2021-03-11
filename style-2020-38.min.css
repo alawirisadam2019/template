@@ -27,7 +27,7 @@
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
 		article .code-box div{display:block;text-align:left;color:#fff;direction:ltr;background-color:#000;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.example-box{display:block;border:1px solid #ffffff;background-color:#5858FA;margin-top:2px;margin-bottom:2px;border-radius:2px;padding-top:2px;padding-bottom:2px;padding-left:3px;padding-right:2px;max-width:900px}
-		.example-box .code-box{display:block;direction:ltr;color:#fff;text-align:left;background-color:#000;border:1px solid #bbb;font-size:12px;font-family:monospace,Consolas;line-height:18px;padding:10px;border-radius:5px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
+		.example-box .code-box{display:block;direction:ltr;color:#585fff;text-align:left;background-color:#000;border:1px solid #bbb;font-size:12px;font-family:monospace,Consolas;line-height:18px;padding:10px;border-radius:5px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.code-box ol{list-style-type:decimal-leading-zero;list-style-position:inside;direction:ltr}
 		.code-box ol li{direction:ltr;font-weight:700}
 		.code-box ol li .gray{font-weight:400}
@@ -141,7 +141,7 @@
 		.EnlighterJSTabPane .controls ul{direction:ltr!important;margin:0!important}
 		.EnlighterJSTabPane.enlighterEnlighterJSTabPane{border:1px solid #bbb!important;border-radius:5px!important}
 		.enlighterEnlighterJSTabPane .controls{background:#d3d3d3!important;padding:15px 5px 5px 5px!important;border-radius:5px 5px 0 0!important}
-		.enlighterEnlighterJSTabPane .pane{padding:6px!important;background:#000000!important}
+		.enlighterEnlighterJSTabPane .pane{padding:6px!important;background:#5858FA!important}
 		.enlighterEnlighterJSTabPane .controls li{border:1px solid gray!important;direction:ltr!important}
 		.EnlighterJSWrapper.gitEnlighterJSWrapper{border-radius:5px!important}
 		ol.EnlighterJS,ul.EnlighterJS{border-radius:5px!important;margin:0!important;padding:8px 0!important}
@@ -155,8 +155,8 @@
 		h2 .EnlighterJS span{font-size:17px!important}
 		.code-title .EnlighterJS span,.code-title .enlighterEnlighterJS span{font-weight:700!important;font-size:16px!important;font-family:Helvetica,Arial,Sans-Serif!important}
 		.EnlighterJS span{font-weight:700!important}
-		ol.EnlighterJS,ul.EnlighterJS{width:auto!important;overflow-x:auto!important;word-wrap:normal!important;direction:ltr!important;background-color:#000!important}
-		ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#000!important}
+		ol.EnlighterJS,ul.EnlighterJS{width:auto!important;overflow-x:auto!important;word-wrap:normal!important;direction:ltr!important;background-color:#585!important}
+		ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#585!important}
 		#shortc2222uts span.enlighterEnlighterJS{background:#ced8f6!important}
 		#shortcu22ts span.EnlighterJS{border:none!important}
 		article p span.enlighterEnlighterJS{background:green!important;border:none!important}

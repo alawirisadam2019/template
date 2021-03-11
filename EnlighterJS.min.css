@@ -1,6 +1,6 @@
 .EnlighterJS,.EnlighterJSWrapper{font-family:"Source Code Pro","Liberation Mono","Courier New",Courier,monospace;font-size:10px;line-height:16px;overflow:auto;white-space:pre-wrap;word-wrap:break-word;margin:0;padding:0}
 .EnlighterJSWrapper{position:relative}
-.EnlighterJSWrapper pre{font-family:inherit;background-color:#AEB404;padding:5px 5px 5px 10px;margin:0 0 20px 0;line-height:18px;font-size:12px;color:#444;border:none;border-radius:0;clear:none;white-space:pre-wrap;word-wrap:break-word}
+.EnlighterJSWrapper pre{font-family:inherit;background-color:#fff;padding:5px 5px 5px 10px;margin:0 0 20px 0;line-height:18px;font-size:12px;color:#444;border:none;border-radius:0;clear:none;white-space:pre-wrap;word-wrap:break-word}
 .EnlighterJSWrapper:hover .EnlighterJSToolbar{display:block}
 span.EnlighterJS{padding:3px 5px 1px 5px;border:solid 1px #e0e0e0;color:#333;background-color:#f7f7f7;margin:0 2px 0 2px}
 ol.EnlighterJS,ul.EnlighterJS{display:block;font-size:10px;background-color:#f2f2f2;color:#939393;margin:0 0 20px 0;padding:0;text-indent:0;list-style:none}

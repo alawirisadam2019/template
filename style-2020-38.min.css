@@ -13,7 +13,7 @@
 		video{max-width:90%;height:auto}
 		sup{vertical-align:top}
 		sub{vertical-align:bottom}
-		ar111ticle{margin-top:2px;margin-bottom:2px;padding:2px 2px 13px 2px;border-bottom:2px solid #ffffff}
+		article{margin-top:2px;margin-bottom:2px;padding:2px 2px 13px 2px;border-bottom:2px solid #ffffff}
 		art1111icle p{font-size:10px;direction:rtl;font-family:droid_arabic_naskh_regular}
 		article p a{color:#00f;text-decoration:underline}
 		article p a:hover{color:red;text-decoration:none}
@@ -21,8 +21,8 @@
 		.border{padding:1px;background-color:#fff}
 		.example-box h4{display:block;margin-right:5px;margin-bottom:2px;color:#ffffff;text-align:right;direction:rtl;font-size:10px;font-family:droid_arabic_naskh_regular}
 		.example-box code{background-color:#000000}
-		arti111cle h3{direction:rtl;font-weight:700;font-size:12px;margin:5px 0;font-family:droid_arabic_naskh_regular}
-		arti111cle h2{display:block;text-align:right;margin:5px 0;font-size:13px;direction:rtl;font-family:droid_arabic_naskh_regular}
+		article h3{direction:rtl;font-weight:700;font-size:12px;margin:5px 0;font-family:droid_arabic_naskh_regular}
+		article h2{display:block;text-align:right;margin:5px 0;font-size:13px;direction:rtl;font-family:droid_arabic_naskh_regular}
 		article h2 .code{font-size:inherit;font-weight:700}
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
 		article .code-box div{display:block;text-align:left;color:#fff;direction:ltr;background-color:#000;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
@@ -31,7 +31,7 @@
 		.code-box ol{list-style-type:decimal-leading-zero;list-style-position:inside;direction:ltr}
 		.code-box ol li{direction:ltr;font-weight:700}
 		.code-box ol li .gray{font-weight:400}
-		.example-box .code-title{display:block;text-align:left;direction:ltr;margin-left:5px;padding-left:10px;line-height:10px;margin-bottom:3px;font-family:Helvetica,Arial,Sans-Serif;font-size:15px}
+		.example-box .code-title{display:block;text-align:left;direction:ltr;margin-left:10px;padding-left:22px;line-height:10px;margin-bottom:3px;font-family:Helvetica,Arial,Sans-Serif;font-size:15px}
 		article .cmd-box{display:block;direction:ltr;color:#fff;text-align:left;background-color:#000;border:5px solid #3385ff;font-size:12px;font-family:monospace,Consolas;line-height:18px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		article .cmd-box h4{display:block;direction:ltr;color:#fff;tex22t-align:ce22nter;background:#000000;font-size:15px;font-family:monospace,Consolas;line-height:10px;padding:3px}
 		article .cmd-box div{display:block;text-align:left;color:#fff;direction:ltr;background-color:#000;padding:4px;border-radius:3px;line-height:12px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
@@ -141,7 +141,7 @@
 		.EnlighterJSTabPane .controls ul{direction:ltr!important;margin:0!important}
 		.EnlighterJSTabPane.enlighterEnlighterJSTabPane{border:1px solid #bbb!important;border-radius:5px!important}
 		.enlighterEnlighterJSTabPane .controls{background:#d3d3d3!important;padding:15px 5px 5px 5px!important;border-radius:5px 5px 0 0!important}
-		.enlighterEnlighterJSTabPane .pane{padding:6px!important;background:#d3d3d3!important}
+		.enlighterEnlighterJSTabPane .pane{padding:6px!important;background:#000000!important}
 		.enlighterEnlighterJSTabPane .controls li{border:1px solid gray!important;direction:ltr!important}
 		.EnlighterJSWrapper.gitEnlighterJSWrapper{border-radius:5px!important}
 		ol.EnlighterJS,ul.EnlighterJS{border-radius:5px!important;margin:0!important;padding:8px 0!important}
@@ -149,17 +149,17 @@
 		ol.EnlighterJS li,ul.EnlighterJS li{font-size:11px!important;line-height:18px!important}
 		.EnlighterJSWrapper .EnlighterJSWrapper{display:none}
 		.enlighterEnlighterJS .co1,.enlighterEnlighterJS .co2{font-weight:400!important;font-family:droid_arabic_naskh_regular!important}
-		ol.enlighterEnlighterJS li.specialline,ul.enlighterEnlighterJS li.specialline{background-color:#f4fa58!important}
+		ol.enlighterEnlighterJS li.specialline,ul.enlighterEnlighterJS li.specialline{background-color:#000000!important}
 		.code-title span.EnlighterJS{background:0 0!important}
 		h2 span.EnlighterJS,h3 span.EnlighterJS{background:#ced8f6!important;border:none!important}
 		h2 .EnlighterJS span{font-size:17px!important}
 		.code-title .EnlighterJS span,.code-title .enlighterEnlighterJS span{font-weight:700!important;font-size:16px!important;font-family:Helvetica,Arial,Sans-Serif!important}
 		.EnlighterJS span{font-weight:700!important}
-		ol.EnlighterJS,ul.EnlighterJS{width:auto!important;overflow-x:auto!important;word-wrap:normal!important;direction:ltr!important;background-color:#fff!important}
-		ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#fff!important}
+		ol.EnlighterJS,ul.EnlighterJS{width:auto!important;overflow-x:auto!important;word-wrap:normal!important;direction:ltr!important;background-color:#000!important}
+		ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#000!important}
 		#shortc2222uts span.enlighterEnlighterJS{background:#ced8f6!important}
 		#shortcu22ts span.EnlighterJS{border:none!important}
-		article p span.enlighterEnlighterJS{background:#ced8f6!important;border:none!important}
+		article p span.enlighterEnlighterJS{background:green!important;border:none!important}
 		.responsive-table{overflow-x:auto;border:1px solid #bbb!important;border-radius:5px}
 		.responsive-table table{border-collapse:collapse;border-spacing:0;width:100%}
 		.responsive-table table th{background-color:#5858FA}

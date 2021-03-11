@@ -332,7 +332,7 @@ ol.rowhammerEnlighterJS.hoverEnabled li:hover,ul.rowhammerEnlighterJS.hoverEnabl
 .rowhammerEnlighterJSTabPane .controls li:hover{background-color:transparent}
 .rowhammerEnlighterJSTabPane .controls .selected,.rowhammerEnlighterJSTabPane .controls .selected:hover{border-bottom:dotted 1px #758697;background-color:#f0f0f0}
 .rowhammerEnlighterJSTabPane .pane{padding:0}
-.rowhammerEnlighterJSWrapper pre{background-color:#000000;font-size:15px;line-height:22px;color:#ffffff}
+.rowhammerEnlighterJSWrapper pre{background-color:transparent;font-size:15px;line-height:22px;color:#2a2a2a}
 .gitEnlighterJS,.gitEnlighterJSWrapper pre{border:1px solid #eee;font-family:Courier,monospace}
 ol.gitEnlighterJS li,ul.gitEnlighterJS li{border:none;line-height:20px}
 ol.gitEnlighterJS.hoverEnabled li:hover,ul.gitEnlighterJS.hoverEnabled li:hover{background-color:#ffc;border:none}

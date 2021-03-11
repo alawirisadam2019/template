@@ -3,7 +3,7 @@
 		table{font-family:droid_arabic_naskh_regular}
 		p .number,table .number{font-family:Helvetica,Arial,Sans-Serif;color:red;font-weight:700;direction:ltr}
 		table .row-number{width:28px;text-align:center}
-		a{text-decoration:none}
+		11a{text-decoration:none}
 		article p a{text-decoration:underline;font-family:droid_arabic_naskh_regular;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
 		article p a:hover{color:red;text-decoration:none}
 		table a{text-decoration:underline;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
@@ -19,22 +19,22 @@
 		article p a:hover{color:red;text-decoration:none}
 		article .question{color:red}
 		.border{padding:1px;background-color:#fff}
-		.exam222ple-box h4{display:block;margin-right:5px;margin-bottom:2px;color:#000fff;text-align:right;direction:rtl;font-size:10px;font-family:droid_arabic_naskh_regular}
-		.example-box code{background-color:#a9e2f3}
+		.example-box h4{display:block;margin-right:5px;margin-bottom:2px;color:#ffffff;text-align:right;direction:rtl;font-size:10px;font-family:droid_arabic_naskh_regular}
+		.example-box code{background-color:#000000}
 		arti111cle h3{direction:rtl;font-weight:700;font-size:12px;margin:5px 0;font-family:droid_arabic_naskh_regular}
-		arti111cle h2{display:block;text-align:right;margin:10px 0;font-size:13px;direction:rtl;font-family:droid_arabic_naskh_regular}
+		arti111cle h2{display:block;text-align:right;margin:5px 0;font-size:13px;direction:rtl;font-family:droid_arabic_naskh_regular}
 		article h2 .code{font-size:inherit;font-weight:700}
 		article .code-box{display:block;border:1px solid #d3d3d3;border-radius:6px;margin-bottom:15px;position:relative}
-		article .code-box div{display:block;text-align:left;color:#000;direction:ltr;background-color:#fff;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
+		article .code-box div{display:block;text-align:left;color:#fff;direction:ltr;background-color:#000;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.example-box{display:block;border:1px solid #ffffff;background-color:#5858FA;margin-top:2px;margin-bottom:2px;border-radius:2px;padding-top:2px;padding-bottom:2px;padding-left:3px;padding-right:2px;max-width:900px}
 		.example-box .code-box{display:block;direction:ltr;color:#fff;text-align:left;background-color:#000;border:1px solid #bbb;font-size:12px;font-family:monospace,Consolas;line-height:18px;padding:10px;border-radius:5px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.code-box ol{list-style-type:decimal-leading-zero;list-style-position:inside;direction:ltr}
 		.code-box ol li{direction:ltr;font-weight:700}
 		.code-box ol li .gray{font-weight:400}
-		.example-box .code-title{display:block;text-align:left;direction:ltr;margin-left:10px;padding-left:30px;line-height:25px;margin-bottom:3px;font-family:Helvetica,Arial,Sans-Serif;font-size:15px}
+		.example-box .code-title{display:block;text-align:left;direction:ltr;margin-left:5px;padding-left:10px;line-height:10px;margin-bottom:3px;font-family:Helvetica,Arial,Sans-Serif;font-size:15px}
 		article .cmd-box{display:block;direction:ltr;color:#fff;text-align:left;background-color:#000;border:5px solid #3385ff;font-size:12px;font-family:monospace,Consolas;line-height:18px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
-		article .cmd-box h4{display:block;direction:ltr;color:#000;tex22t-align:ce22nter;background:#3385ff;font-size:15px;font-family:monospace,Consolas;line-height:18px;padding:5px}
-		article .cmd-box div{display:block;text-align:left;color:#fff;direction:ltr;background-color:#000;padding:8px;border-radius:6px;line-height:22px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
+		article .cmd-box h4{display:block;direction:ltr;color:#fff;tex22t-align:ce22nter;background:#000000;font-size:15px;font-family:monospace,Consolas;line-height:10px;padding:3px}
+		article .cmd-box div{display:block;text-align:left;color:#fff;direction:ltr;background-color:#000;padding:4px;border-radius:3px;line-height:12px;font-family:monospace,Consolas;font-size:12px;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
 		.java-file-icon{background:url(https://raw.githack.com/alawirisadam2019/alawirisaddam2/main/java-file.png) no-repeat}
 		.cpp-file-icon{background:url(https://raw.githack.com/alawirisadam2019/alawirisaddam2/main/cpp-file.png/cpp-file.PNG) no-repeat}
 		.python-file-icon{background:url(https://raw.githack.com/alawirisadam2019/alawirisaddam2/main/python-file.png) no-repeat}
@@ -47,9 +47,9 @@
 		.explain .word{padding-top:3px}
 		article a img{cursor:zoom-in}
 		ol.arabic{direction:rtl;list-style:arabic-indic;list-style-position:inside;color:red;font-family:droid_arabic_naskh_regular}
-		ol ol,ol ul,ul ol,ul ul{padding-right:5px}
-		ol li p,ul li p{display:inline;color:#000;font-weight:400;vertical-align:middle;font-family:droid_arabic_naskh_regular}
-		ol li .question,ul li .question{color:#008;font-weight:400;font-family:droid_arabic_naskh_regular}
+		ol ol,ol ul,ul ol,ul ul{padding-right:3px}
+		ol li p,ul li p{display:inline;color:blue;font-weight:400;vertical-align:middle;font-family:droid_arabic_naskh_regular}
+		ol li .question,ul li .question{color:brown;font-weight:400;font-family:droid_arabic_naskh_regular}
 		.white{color:#fff}
 		.blue{color:#00f}
 		.purple{color:purple}

@@ -1,7 +1,7 @@
    #header{position:fixed;display:block;background:#0101DF;height:50px;width:100%;top:0;z-index:2;border-top:4px solid #000}#header ul{display:block;max-width:1310px;height:50px;list-style-type:none;margin:0 auto}#header ul li{float:right;display:none;height:46px;text-decoration:none;color:#fff;text-align:center;padding:0 13px;font-family:droid_arabic_naskh_regular;font-size:16px;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
         
         
-        #sidenav{display:none;direction:rtl;z-index:1000;background-color:#e0e0e0}.static-side-nav{display:table-cell;float:right;overflow-y:hidden}.sticky-side-nav{position:fixed;top:50px;right:0;overflow-y:auto;border-right:none}
+        #side_nav{display:none;direction:rtl;z-index:1000;background-color:#e0e0e0}.static-side-nav{display:table-cell;float:right;overflow-y:hidden}.sticky-side-nav{position:fixed;top:50px;right:0;overflow-y:auto;border-right:none}
         
         
         #logo{display:block;padding:0 13px;line-height:46px}
